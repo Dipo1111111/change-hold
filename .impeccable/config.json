@@ -1,0 +1,17 @@
+{
+  "detector": {
+    "ignoreRules": [],
+    "ignoreFiles": [],
+    "ignoreValues": [
+      {
+        "rule": "repeating-stripes-gradient",
+        "value": "*",
+        "files": [
+          "./index.html"
+        ],
+        "createdAt": "2026-09-16T19:23:23.989Z",
+        "reason": "Intentionally ruled ledger paper (laid-paper texture) in the chosen world"
+      }
+    ]
+  }
+}
